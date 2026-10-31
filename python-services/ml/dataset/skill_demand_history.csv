@@ -1,0 +1,241 @@
+Quarter,Skill,Number_of_People_Required
+Q1 2023,Python,16
+Q2 2023,Python,21
+Q3 2023,Python,23
+Q4 2023,Python,23
+Q1 2024,Python,24
+Q2 2024,Python,26
+Q3 2024,Python,27
+Q4 2024,Python,27
+Q1 2025,Python,31
+Q2 2025,Python,33
+Q3 2025,Python,33
+Q4 2025,Python,35
+Q1 2026,Python,38
+Q2 2026,Python,40
+Q3 2026,Python,41
+Q1 2023,SQL,15
+Q2 2023,SQL,16
+Q3 2023,SQL,14
+Q4 2023,SQL,18
+Q1 2024,SQL,18
+Q2 2024,SQL,17
+Q3 2024,SQL,18
+Q4 2024,SQL,20
+Q1 2025,SQL,20
+Q2 2025,SQL,20
+Q3 2025,SQL,21
+Q4 2025,SQL,18
+Q1 2026,SQL,21
+Q2 2026,SQL,22
+Q3 2026,SQL,22
+Q1 2023,Machine Learning,7
+Q2 2023,Machine Learning,7
+Q3 2023,Machine Learning,10
+Q4 2023,Machine Learning,9
+Q1 2024,Machine Learning,10
+Q2 2024,Machine Learning,14
+Q3 2024,Machine Learning,13
+Q4 2024,Machine Learning,12
+Q1 2025,Machine Learning,15
+Q2 2025,Machine Learning,16
+Q3 2025,Machine Learning,18
+Q4 2025,Machine Learning,20
+Q1 2026,Machine Learning,22
+Q2 2026,Machine Learning,22
+Q3 2026,Machine Learning,24
+Q1 2023,Deep Learning,2
+Q2 2023,Deep Learning,4
+Q3 2023,Deep Learning,4
+Q4 2023,Deep Learning,6
+Q1 2024,Deep Learning,5
+Q2 2024,Deep Learning,7
+Q3 2024,Deep Learning,7
+Q4 2024,Deep Learning,8
+Q1 2025,Deep Learning,8
+Q2 2025,Deep Learning,11
+Q3 2025,Deep Learning,11
+Q4 2025,Deep Learning,9
+Q1 2026,Deep Learning,13
+Q2 2026,Deep Learning,11
+Q3 2026,Deep Learning,13
+Q1 2023,Generative AI,0
+Q2 2023,Generative AI,2
+Q3 2023,Generative AI,2
+Q4 2023,Generative AI,4
+Q1 2024,Generative AI,6
+Q2 2024,Generative AI,9
+Q3 2024,Generative AI,9
+Q4 2024,Generative AI,10
+Q1 2025,Generative AI,13
+Q2 2025,Generative AI,15
+Q3 2025,Generative AI,15
+Q4 2025,Generative AI,17
+Q1 2026,Generative AI,22
+Q2 2026,Generative AI,20
+Q3 2026,Generative AI,24
+Q1 2023,Statistics,6
+Q2 2023,Statistics,6
+Q3 2023,Statistics,6
+Q4 2023,Statistics,6
+Q1 2024,Statistics,7
+Q2 2024,Statistics,8
+Q3 2024,Statistics,9
+Q4 2024,Statistics,9
+Q1 2025,Statistics,9
+Q2 2025,Statistics,8
+Q3 2025,Statistics,10
+Q4 2025,Statistics,8
+Q1 2026,Statistics,9
+Q2 2026,Statistics,12
+Q3 2026,Statistics,10
+Q1 2023,Data Engineering,4
+Q2 2023,Data Engineering,7
+Q3 2023,Data Engineering,5
+Q4 2023,Data Engineering,8
+Q1 2024,Data Engineering,11
+Q2 2024,Data Engineering,11
+Q3 2024,Data Engineering,11
+Q4 2024,Data Engineering,14
+Q1 2025,Data Engineering,12
+Q2 2025,Data Engineering,13
+Q3 2025,Data Engineering,14
+Q4 2025,Data Engineering,16
+Q1 2026,Data Engineering,15
+Q2 2026,Data Engineering,18
+Q3 2026,Data Engineering,18
+Q1 2023,Data Visualization,5
+Q2 2023,Data Visualization,6
+Q3 2023,Data Visualization,9
+Q4 2023,Data Visualization,8
+Q1 2024,Data Visualization,8
+Q2 2024,Data Visualization,8
+Q3 2024,Data Visualization,8
+Q4 2024,Data Visualization,8
+Q1 2025,Data Visualization,9
+Q2 2025,Data Visualization,9
+Q3 2025,Data Visualization,9
+Q4 2025,Data Visualization,8
+Q1 2026,Data Visualization,10
+Q2 2026,Data Visualization,9
+Q3 2026,Data Visualization,10
+Q1 2023,Cloud Computing,10
+Q2 2023,Cloud Computing,8
+Q3 2023,Cloud Computing,10
+Q4 2023,Cloud Computing,11
+Q1 2024,Cloud Computing,11
+Q2 2024,Cloud Computing,14
+Q3 2024,Cloud Computing,14
+Q4 2024,Cloud Computing,15
+Q1 2025,Cloud Computing,14
+Q2 2025,Cloud Computing,19
+Q3 2025,Cloud Computing,18
+Q4 2025,Cloud Computing,19
+Q1 2026,Cloud Computing,19
+Q2 2026,Cloud Computing,22
+Q3 2026,Cloud Computing,21
+Q1 2023,Docker,5
+Q2 2023,Docker,4
+Q3 2023,Docker,6
+Q4 2023,Docker,9
+Q1 2024,Docker,8
+Q2 2024,Docker,9
+Q3 2024,Docker,9
+Q4 2024,Docker,11
+Q1 2025,Docker,12
+Q2 2025,Docker,11
+Q3 2025,Docker,12
+Q4 2025,Docker,13
+Q1 2026,Docker,14
+Q2 2026,Docker,13
+Q3 2026,Docker,12
+Q1 2023,Kubernetes,1
+Q2 2023,Kubernetes,1
+Q3 2023,Kubernetes,3
+Q4 2023,Kubernetes,5
+Q1 2024,Kubernetes,4
+Q2 2024,Kubernetes,4
+Q3 2024,Kubernetes,7
+Q4 2024,Kubernetes,7
+Q1 2025,Kubernetes,8
+Q2 2025,Kubernetes,11
+Q3 2025,Kubernetes,8
+Q4 2025,Kubernetes,11
+Q1 2026,Kubernetes,11
+Q2 2026,Kubernetes,11
+Q3 2026,Kubernetes,11
+Q1 2023,DevOps,5
+Q2 2023,DevOps,7
+Q3 2023,DevOps,8
+Q4 2023,DevOps,8
+Q1 2024,DevOps,7
+Q2 2024,DevOps,7
+Q3 2024,DevOps,10
+Q4 2024,DevOps,11
+Q1 2025,DevOps,10
+Q2 2025,DevOps,14
+Q3 2025,DevOps,12
+Q4 2025,DevOps,12
+Q1 2026,DevOps,15
+Q2 2026,DevOps,14
+Q3 2026,DevOps,14
+Q1 2023,React,11
+Q2 2023,React,12
+Q3 2023,React,13
+Q4 2023,React,12
+Q1 2024,React,15
+Q2 2024,React,14
+Q3 2024,React,16
+Q4 2024,React,15
+Q1 2025,React,17
+Q2 2025,React,17
+Q3 2025,React,15
+Q4 2025,React,17
+Q1 2026,React,17
+Q2 2026,React,16
+Q3 2026,React,19
+Q1 2023,Node.js,10
+Q2 2023,Node.js,9
+Q3 2023,Node.js,13
+Q4 2023,Node.js,14
+Q1 2024,Node.js,12
+Q2 2024,Node.js,13
+Q3 2024,Node.js,13
+Q4 2024,Node.js,15
+Q1 2025,Node.js,13
+Q2 2025,Node.js,14
+Q3 2025,Node.js,14
+Q4 2025,Node.js,15
+Q1 2026,Node.js,14
+Q2 2026,Node.js,17
+Q3 2026,Node.js,18
+Q1 2023,Java,17
+Q2 2023,Java,19
+Q3 2023,Java,17
+Q4 2023,Java,17
+Q1 2024,Java,14
+Q2 2024,Java,16
+Q3 2024,Java,14
+Q4 2024,Java,15
+Q1 2025,Java,14
+Q2 2025,Java,11
+Q3 2025,Java,11
+Q4 2025,Java,12
+Q1 2026,Java,10
+Q2 2026,Java,9
+Q3 2026,Java,10
+Q1 2023,Cybersecurity,0
+Q2 2023,Cybersecurity,3
+Q3 2023,Cybersecurity,3
+Q4 2023,Cybersecurity,4
+Q1 2024,Cybersecurity,7
+Q2 2024,Cybersecurity,6
+Q3 2024,Cybersecurity,6
+Q4 2024,Cybersecurity,8
+Q1 2025,Cybersecurity,8
+Q2 2025,Cybersecurity,8
+Q3 2025,Cybersecurity,11
+Q4 2025,Cybersecurity,10
+Q1 2026,Cybersecurity,10
+Q2 2026,Cybersecurity,12
+Q3 2026,Cybersecurity,11
